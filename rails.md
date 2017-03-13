@@ -160,3 +160,9 @@ Read more about it from
 Place counter cache where ever necessary.
 Read more about on
 [our blog](http://blog.redpanthers.co/counter-cache-how-to-get-started/).
+
+
+## References
+
+- [Rails Best Practices](https://rails-bestpractices.com)
+
