@@ -38,6 +38,18 @@ group :development do
 end
 ```
 
+
+## Migrations
+
+Don't edit or remove existing migrations files.
+It is all right to edit migrations
+if it's on a branch that you're working on,
+but once a migration has reached staging or production,
+it should not be changed.
+
+- [Rails Guides: Changing Existing Migrations](http://edgeguides.rubyonrails.org/active_record_migrations.html#changing-existing-migrations)
+
+
 ## Models
 
 - Don't use default scope -
